@@ -1,0 +1,1 @@
+- To add/remove users, go to https://trgtdigital.com/wp-admin/users.php

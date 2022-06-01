@@ -1,4 +1,4 @@
-Steps to update:
+### Steps to update:
 
 1. Login to https://trgtdigital.com/wp-admin
 2. For system level update, go to top at Sites->Network Admin section, but if the update is site level, navigate to https://trgtdigital.com/wp-admin/network/sites.php
